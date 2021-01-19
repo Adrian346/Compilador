@@ -1,0 +1,23 @@
+main
+{
+int x;
+cin x;
+if(x>15000)then
+x:=x - (x-(x*75)/100);
+else
+if(x>7000) then
+x:=x - (x-(x*82)/100);
+else
+if(x>1000) then
+x:=x - (x-(x*89)/100);
+else
+if(x>500) then
+x:=x - (x-(x*95)/100);
+else
+x:=x;
+end;
+end;
+end;
+end;
+cout x;
+}

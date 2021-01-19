@@ -1,0 +1,25 @@
+main{
+int n, i, m, primos, divisor;
+primos:=0;
+n:=0;
+cin m;
+do
+    n++;
+    divisor;
+    do
+         i++;
+         if(n%i==0) then
+              divisor++;
+         else
+              divisor:=divisor;
+         end;
+    until(i>=n);
+    if(divisor==2) then
+         cout n;
+         primos++;
+    else
+         primos:=primos;
+    end;     
+until(n>=m);
+cout primos;
+}

@@ -1,0 +1,10 @@
+main
+{
+int calificacion;
+cin calificacion;
+if(calificacion>=8) then
+cout 1;
+else
+cout 0;
+end;
+}

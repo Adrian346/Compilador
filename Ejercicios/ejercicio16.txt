@@ -1,0 +1,13 @@
+main {
+int x;
+cin x;
+
+if (x>=0) then
+cout 0;
+else if (x<=0) then 
+cout 1;
+else 
+cout 2;
+end;
+end;
+}

@@ -1,0 +1,8 @@
+main
+{
+int radio,altura;
+cin radio;
+cin altura;
+cout (2 * 3.14*radio*altura);
+cout (3.14 * radio * radio * altura);
+}

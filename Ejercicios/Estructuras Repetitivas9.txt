@@ -1,0 +1,38 @@
+main{
+float suma1, suma2, suma3, suma4, voto, sumaTotal;
+float porc1, porc2, porc3, porc4;
+suma1:=0;
+suma2:=0;
+suma3:=0;
+suma4:=0;
+do
+    cin voto;
+    if(voto==1) then
+         suma1++;
+    else
+         if(voto==2) then
+              suma2++;
+         else
+              if(voto==3) then
+                   suma3++;
+              else
+                   if(voto==4) then
+                        suma4++;
+                   else
+                        voto:=voto;
+                   end;
+              end;
+         end;
+    end;
+until(voto==0);
+sumaTotal:=suma1+suma2+suma3+suma4;
+porc1:=100*(suma1/sumaTotal);
+porc2:=100*(suma2/sumaTotal);
+porc3:=100*(suma3/sumaTotal);
+porc4:=100*(suma4/sumaTotal);
+cout suma1;
+//cout porc1;
+cout suma2;
+cout suma3;
+cout suma4;
+}

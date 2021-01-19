@@ -1,0 +1,67 @@
+C:\Users\cesar\source\repos\IDE\bin\Debug\IDE.exe.config
+C:\Users\cesar\source\repos\IDE\bin\Debug\IDE.exe
+C:\Users\cesar\source\repos\IDE\bin\Debug\IDE.pdb
+C:\Users\cesar\source\repos\IDE\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\IDE\obj\Debug\IDE.Form1.resources
+C:\Users\cesar\source\repos\IDE\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\cesar\source\repos\IDE\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\IDE\obj\Debug\IDE.exe
+C:\Users\cesar\source\repos\IDE\obj\Debug\IDE.pdb
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\obj\Debug\IDE.Form1.resources
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\obj\Debug\IDE.exe
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\obj\Debug\IDE.pdb
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\bin\Debug\IDE.exe.config
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\bin\Debug\IDE.exe
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\IDE\bin\Debug\IDE.pdb
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\bin\Debug\IDE.exe.config
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\bin\Debug\IDE.exe
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\bin\Debug\IDE.pdb
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.Form1.resources
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.exe
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.pdb
+C:\Users\Adrian Lopez\Documents\Octavo Semestre\Compiladores I\Pruebas\IDE\obj\Debug\IDE.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\IDE\bin\Debug\IDE.exe.config
+C:\Users\cesar\Desktop\IDE\bin\Debug\IDE.exe
+C:\Users\cesar\Desktop\IDE\bin\Debug\IDE.pdb
+C:\Users\cesar\Desktop\IDE\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\cesar\Desktop\IDE\obj\Debug\IDE.Form1.resources
+C:\Users\cesar\Desktop\IDE\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\cesar\Desktop\IDE\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\cesar\Desktop\IDE\obj\Debug\IDE.exe
+C:\Users\cesar\Desktop\IDE\obj\Debug\IDE.pdb
+C:\Users\adria\OneDrive\Documentos\compilador\bin\Debug\IDE.exe.config
+C:\Users\adria\OneDrive\Documentos\compilador\bin\Debug\IDE.exe
+C:\Users\adria\OneDrive\Documentos\compilador\bin\Debug\IDE.pdb
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.Form1.resources
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.exe
+C:\Users\adria\OneDrive\Documentos\compilador\obj\Debug\IDE.pdb
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\bin\Debug\IDE.exe.config
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\bin\Debug\IDE.exe
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\bin\Debug\IDE.pdb
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.Form1.resources
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.exe
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.pdb
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 1.0\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.Form1.resources
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.exe
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\obj\Debug\IDE.pdb
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\bin\Debug\IDE.exe.config
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\bin\Debug\IDE.exe
+C:\Users\adria\OneDrive\Documentos\Noveno Semestre\Compiladores II\Versiones del Proyecto\compilador 3.0\bin\Debug\IDE.pdb

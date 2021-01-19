@@ -1,0 +1,8 @@
+main
+{
+int base, altura;
+cin base;
+cin altura;
+cout ((2 * base) + (2 * altura));
+cout (base * altura);
+}

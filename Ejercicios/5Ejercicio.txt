@@ -1,0 +1,7 @@
+main
+{
+int costo,dinero;
+cin costo;
+cin dinero;
+cout (dinero - costo);
+}

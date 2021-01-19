@@ -1,0 +1,11 @@
+main{
+int i, x, suma;
+suma:=0;
+i:=0;
+cin x;
+do
+    i++;
+    suma:= suma + i^i;
+until(i>=x);
+cout suma;
+}

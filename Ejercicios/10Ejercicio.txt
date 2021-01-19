@@ -1,0 +1,10 @@
+main
+{
+int valor;
+cin valor;
+if(valor<1000) then
+cout(115*valor)/100;
+else
+cout(112*valor)/100;
+end;
+}

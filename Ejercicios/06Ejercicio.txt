@@ -1,0 +1,8 @@
+main
+{
+float peso, longitud;
+cin peso;
+cin longitud;
+cout (peso/2.2);
+cout (longitud/3.2);
+}

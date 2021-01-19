@@ -1,0 +1,19 @@
+main
+{
+int num,v,val;
+cin num;
+cin v;
+if(num == 1)then
+val:=100*v;
+else
+if(num == 2) then
+val:=100 * 100 * v;
+else
+if(num == 3) then
+val:=100/v;
+else
+val:=0;
+end;
+end;
+end;
+}

@@ -1,0 +1,27 @@
+main{
+int i,  numero, n, numMenor, numMayor;
+numMayor:=0;
+i:=0;
+cin n;
+do
+    cin numero;
+    if(i==0) then
+         numMenor:=numero;
+    else
+         numMenor:=numMenor;
+    end;
+    if(numMenor>numero) then
+         numMenor:=numero;
+    else
+         numMenor:=numMenor;
+    end;
+    if(numMayor<numero) then
+         numMayor:=numero;
+    else
+         numMayor:=numMayor;
+    end;
+    i++;
+until(i>=n);
+cout numMenor;
+cout numMayor;
+}
